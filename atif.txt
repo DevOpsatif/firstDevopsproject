@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4A57-19F4
+
+ Directory of C:\Users\user\Desktop\firstproject
+
+02/22/2021  02:49 AM    <DIR>          .
+02/22/2021  02:49 AM    <DIR>          ..
+02/20/2021  01:19 AM               223 AddTwoNumbers.java
+02/22/2021  02:49 AM                 0 atif.txt
+02/22/2021  02:27 AM               906 Devops.class
+02/20/2021  01:15 AM               173 Devops.java
+               4 File(s)          1,302 bytes
+               2 Dir(s)   2,404,429,824 bytes free
